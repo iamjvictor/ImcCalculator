@@ -1,14 +1,16 @@
 # Calculadora de Indice de Massa Corporal
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
-<div style="text-align:center">
-<img src="Tela_Inicial.png" alt="Tela Inicial"  width="100" >
-</div>
+![GitHub repo size](https://img.shields.io/github/repo-size/iamjvictor/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/iamjvictor/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iamjvictor/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iamjvictor/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iamjvictor/README-template?style=for-the-badge)
+<p align="center" width="100%">
+    <img width="50%" src="Tela_Inicial.png">
+    <img width="50%" src="calculado.png">
+    
+</p>
 > Este projeto tem como intuito colocar em prática conceitos sobre React Native. Se trata de uma aplicação que realiza o calculo do IMC (Indice de Massa Corporal) tendo como entradas a altura e o peso do usuário. 
 
 ### Ajustes e melhorias
