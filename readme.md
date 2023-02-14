@@ -6,9 +6,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
-
-<img src="Tela_Inicial.png" alt="Tela Inicial">
-
+<p>
+<img src="Tela_Inicial.png" alt="Tela Inicial" align="middle" width="35" >
+</p>
 > Este projeto tem como intuito colocar em prática conceitos sobre React Native. Se trata de uma aplicação que realiza o calculo do IMC (Indice de Massa Corporal) tendo como entradas a altura e o peso do usuário. 
 
 ### Ajustes e melhorias
